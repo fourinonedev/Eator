@@ -3,6 +3,7 @@ local/
 packages/
 settings/
 temp/
+.idea/
 creator.d.ts
 jsconfig.json
 project.json
