@@ -1,0 +1,10 @@
+library/
+local/
+packages/
+settings/
+temp/
+creator.d.ts
+jsconfig.json
+project.json
+template.json
+template-banner.png
